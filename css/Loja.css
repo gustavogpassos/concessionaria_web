@@ -1,0 +1,21 @@
+body{
+    padding-top: 50px;
+}
+
+.principal{
+    padding: 40px 15px;
+    text-align: center;
+}
+
+imagem  {
+    text-align: center;
+    
+	
+
+}
+
+imagem:hover  {
+ -webkit-box-shadow:  0px 0px 15px 0px #437CB6;
+  box-shadow:  0px 0px 15px 0px #437CB6;
+
+}
